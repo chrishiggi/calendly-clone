@@ -13,7 +13,8 @@
 				"bradlc.vscode-tailwindcss",
 				"VisualStudioExptTeam.intellicode-api-usage-examples",
 				"msjsdiag.vscode-react-native",
-				"vscode-icons-team.vscode-icons"
+				"vscode-icons-team.vscode-icons",
+				"esbenp.prettier-vscode"
 			]
 		}
 	}
